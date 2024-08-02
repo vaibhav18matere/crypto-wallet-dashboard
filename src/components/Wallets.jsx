@@ -5,7 +5,7 @@ export default function Wallets() {
   const customColors = walletsData.map((entry) => entry.color);
 
   return (
-    <div className="container border rounded-md p-2">
+    <div className="border rounded-md p-2">
       <div className="w-full bg-[#FFFDD2] text-black text-center p-2 text-xl font-bold mb-4 border rounded-md">
         <h1>Wallet Usage</h1>
       </div>

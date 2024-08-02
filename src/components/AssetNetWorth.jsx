@@ -13,7 +13,7 @@ import { stockData } from "./../data/AssetsNetWorthData.js";
 export default function AssetNetWorth() {
   return (
     <div className="container border rounded-md p-2">
-      <div className="w-full bg-yellow-200 text-black text-center p-2 text-xl font-bold mb-4 border rounded-md">
+      <div className="w-full bg-[#FFFDD2] text-black text-center p-2 text-xl font-bold mb-4 border rounded-md border-none">
         <h1>Asset Net Worth</h1>
       </div>
       <div className="flex justify-evenly mb-4">

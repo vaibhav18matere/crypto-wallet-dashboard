@@ -2,7 +2,7 @@ import { registeredUsers } from "../data/RegisteredUsers";
 
 export default function RegisteredUsers() {
   return (
-    <div className="container p-4 border rounded-3xl">
+    <div className="p-4 border rounded-3xl">
       <div className="bg-[#FFFDD2] text-2xl font-semibold flex p-4 justify-between border rounded-3xl ">
         <h1>Registered Users</h1>{" "}
         <button className="rounded-3xl px-6 py-2 text-sm font-bold border bg-black text-white">

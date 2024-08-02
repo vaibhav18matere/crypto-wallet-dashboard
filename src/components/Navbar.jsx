@@ -9,7 +9,7 @@ import {
 
 function Navbar() {
   return (
-    <div className="flex flex-col items-center bg-blue-200 w-20 py-4 space-y-4 h-full fixed">
+    <div className="flex flex-col items-center bg-blue-200 w-20 py-4 space-y-4 h-full fixed border-none">
       <span className="mb-12 mt-4 cursor-pointer">
         <Notification />
       </span>
